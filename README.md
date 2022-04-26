@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Germanna Rebouças 
+### Hi there 👋, My name is Germanna Rebouças
 #### Student of Systems Analysis and Development
 ![Student of Systems Analysis and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHXIbe0SHlbtg/profile-displaybackgroundimage-shrink_350_1400/0/1633123154717?e=2147483647&v=beta&t=sCtEsEjNu892uqyZFf0keKTMhTgSD8y9UuFAKOU5uDQ)
 
@@ -17,10 +17,6 @@ Skills: C/ HTML / CSS / JAVA/ PYTHON
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=germannaa)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germannaa)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=germannaa&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=germannaa)  
@@ -29,3 +25,4 @@ Skills: C/ HTML / CSS / JAVA/ PYTHON
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=germannaa)  
 
+![Profile views](https://gpvc.arturio.dev/germannaa)  
