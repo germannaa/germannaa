@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Germanna Rebouças
 #### Student of Systems Analysis and Development
-![Student of Systems Analysis and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHXIbe0SHlbtg/profile-displaybackgroundimage-shrink_350_1400/0/1633123154717?e=2147483647&v=beta&t=sCtEsEjNu892uqyZFf0keKTMhTgSD8y9UuFAKOU5uDQ)
+![Student of Systems Analysis and Development](https://github.com/germannaa/germannaa/blob/main/Prancheta%20%E2%80%93%201@2x.jpg?raw=true)
 
 I am a student of Systems Analysis and Development, passionate about technology and tireless apprentice. 
 
