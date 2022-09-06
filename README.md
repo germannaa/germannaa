@@ -1,7 +1,9 @@
 ### Hi there 👋, My name is Germanna Rebouças
 
 #### Integrante do Foundation da Apple Developer
+
 ####Estudante de Análise e Desenvolvimento de Sistemas
+
 ####Desenvolvedora FullStack em formação.
 
 Agregadora de conhecimento e de equipes, sempre disposta a aprender, bastante organizada e detalhista com objetivos e metas a serem cumpridas. Membro da organização do PyLadies Fortaleza, uma comunidade para mulheres programadoras em Python.
