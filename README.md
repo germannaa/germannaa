@@ -1,6 +1,8 @@
 ### Olá! 👋 Prazer, me chamo Germanna Rebouças.
 
-> Integrante do Foundation da Apple Developer Academy (Dev iOs);
+> Estagiária em Desenvolvimento e Automação 
+
+> Alumni do Foundation da Apple Developer Academy (Dev iOs);
 
 > Estudante de Análise e Desenvolvimento de Sistemas;
 
