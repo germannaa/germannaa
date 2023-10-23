@@ -1,12 +1,11 @@
 ### Olá! 👋 Prazer, me chamo Germanna Rebouças.
 
-> Estagiária em Desenvolvimento e Automação 
+> Desenvolvedora FullStack
 
 > Alumni do Foundation da Apple Developer Academy (Dev iOs);
 
 > Estudante de Análise e Desenvolvimento de Sistemas;
 
-> Desenvolvedora FullStack em formação;
 
 
 
