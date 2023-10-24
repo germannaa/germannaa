@@ -33,7 +33,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=germannaa)  
 
-(https://github.com/germannaa/germannaa/blob/main/CardFullStack2.jpg?raw=true)
+![Student of Systems Analysis and Development](https://github.com/germannaa/germannaa/blob/main/CardFullStack2.jpg?raw=true)
 
 
 [![@germannaa's Holopin board](https://holopin.io/api/user/board?user=germannaa)](https://holopin.io/@germannaa)
