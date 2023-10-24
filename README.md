@@ -33,4 +33,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=germannaa)  
 
+[![@germannaa's Holopin board](https://nextjs.org/conf/ticket/germannaa?utm_source)](https://nextjs.org/conf/ticket/germannaa?utm_source
+)
+
 [![@germannaa's Holopin board](https://holopin.io/api/user/board?user=germannaa)](https://holopin.io/@germannaa)
