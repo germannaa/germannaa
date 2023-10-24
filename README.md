@@ -39,7 +39,7 @@
 ![Profile views](https://gpvc.arturio.dev/germannaa)  
 
 
-
+ [<img src='https://nextjs.org/conf/ticket/germannaa?v=64' alt='nextjs' height='40'>](https://nextjs.org/conf/ticket/germannaa?v=64)  
 
 
 [![@germannaa's Holopin board](https://holopin.io/api/user/board?user=germannaa)](https://holopin.io/@germannaa)
