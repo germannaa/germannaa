@@ -33,7 +33,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=germannaa)  
 
-[<img src='https://github.com/germannaa/germannaa/blob/main/CardFullStack2.jpg?raw=true' alt='github' >]
-
+<img src='https://github.com/germannaa/germannaa/blob/main/CardFullStack2.jpg?raw=true' alt='github' >
 
 [![@germannaa's Holopin board](https://holopin.io/api/user/board?user=germannaa)](https://holopin.io/@germannaa)
