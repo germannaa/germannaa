@@ -6,9 +6,6 @@
 
 > Estudante de Análise e Desenvolvimento de Sistemas;
 
-
-
-
 ![Student of Systems Analysis and Development](https://github.com/germannaa/germannaa/blob/main/Prancheta%20%E2%80%93%201@2x.jpg?raw=true)
 
 . Agregadora de conhecimento e de equipes, sempre disposta a aprender, bastante organizada e detalhista com objetivos e metas a serem cumpridas. 
@@ -35,11 +32,5 @@
 ![GitHub metrics](https://metrics.lecoq.io/germannaa)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=germannaa)  
-
-![Profile views](https://gpvc.arturio.dev/germannaa)  
-
-
- [<img src='https://nextjs.org/conf/ticket/germannaa?v=64' alt='nextjs' height='40'>](https://nextjs.org/conf/ticket/germannaa?v=64)  
-
 
 [![@germannaa's Holopin board](https://holopin.io/api/user/board?user=germannaa)](https://holopin.io/@germannaa)
